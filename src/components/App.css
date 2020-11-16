@@ -1,0 +1,27 @@
+.container{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    width: 600px;
+}
+
+.header{
+    background-color: gainsboro;
+    border-radius: 6px;
+    margin: 10px;
+    text-align: center;
+}
+
+.field{
+    border: solid;
+    border-color: black;
+    border-radius: 3px;
+}
+
+.imgbtn{
+    width: 30px;
+    margin: 10px;
+}
+
+.btnpnl{
+    align-items: center;
+}
